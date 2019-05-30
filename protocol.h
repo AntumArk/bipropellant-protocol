@@ -154,7 +154,8 @@ extern int control_type;
 #define CONTROL_TYPE_POSITION 1
 #define CONTROL_TYPE_SPEED 2
 #define CONTROL_TYPE_PWM 3
-#define CONTROL_TYPE_MAX 4
+#define CONTROL_TYPE_FINE 4
+#define CONTROL_TYPE_MAX 5
 
 
 /////////////////////////////////////
